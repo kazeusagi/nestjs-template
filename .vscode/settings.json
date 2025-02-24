@@ -1,0 +1,11 @@
+{
+  "editor.tabSize": 2,
+  "editor.defaultFormatter": "biomejs.biome",
+  "editor.formatOnSave": true,
+	// importの整理等を行う場合は以下を有効にする
+	// "editor.codeActionsOnSave": {
+	// 	"source.fixAll.biome": "explicit",
+	// 	"source.addMissingImports.ts": "explicit",
+	// 	"source.organizeImports": "explicit"
+	// }
+}
