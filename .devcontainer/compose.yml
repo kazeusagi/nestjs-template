@@ -3,7 +3,7 @@ services:
     env_file: .env
     build:
       context: .
-      dockerfile: Dockerfile.node
+      dockerfile: Dockerfile.bun
     volumes:
       - ../:/home/user/app
     tty: true
